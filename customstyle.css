@@ -370,3 +370,8 @@ Material Design button
 .btn.red:hover, .btn.red:focus {
   background-color: #c0392b;
 }
+
+a.resume_link{
+  text-decoration: none;
+  color: white;
+}
