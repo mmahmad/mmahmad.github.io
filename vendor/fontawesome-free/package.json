@@ -2,7 +2,7 @@
   "_args": [
     [
       "@fortawesome/fontawesome-free@5.8.1",
-      "/Volumes/Media/dev/Workspaces/bootstrap-resume/startbootstrap-resume"
+      "/Volumes/Media/dev/Workspaces/mmahmad.github.io"
     ]
   ],
   "_from": "@fortawesome/fontawesome-free@5.8.1",
@@ -27,7 +27,7 @@
   ],
   "_resolved": "https://registry.npmjs.org/@fortawesome/fontawesome-free/-/fontawesome-free-5.8.1.tgz",
   "_spec": "5.8.1",
-  "_where": "/Volumes/Media/dev/Workspaces/bootstrap-resume/startbootstrap-resume",
+  "_where": "/Volumes/Media/dev/Workspaces/mmahmad.github.io",
   "author": {
     "name": "Dave Gandy",
     "email": "dave@fontawesome.com",
