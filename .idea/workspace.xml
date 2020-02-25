@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1428b78-63d6-4891-8f40-afbd74cd3437" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>aws</find>
+      <find>tar</find>
+      <find>border-rad</find>
+      <find>border-radius:</find>
+      <find>round</find>
+      <find>rounded-c</find>
+      <find>general</find>
+      <find>rounded-circ</find>
+      <find>rounded-circle</find>
+      <find>bootstrap</find>
+      <find>border-radius: 50% !important;</find>
+      <find>task</find>
+      <find>css</find>
+      <find>min</find>
+      <find>vendor</find>
+      <find>circle</find>
+      <find>rounded</find>
+      <find>animate</find>
+      <find>href</find>
+      <find>d-none</find>
+      <find>fstream</find>
+      <find>axios</find>
+      <find>extracu</find>
+      <find>December</find>
+      <find>Nutrien</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1XeJa4yXFnGw4HxcxuVYGzpzOFt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1428b78-63d6-4891-8f40-afbd74cd3437" name="Default Changelist" comment="" />
+      <created>1557927426580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557927426580</updated>
+      <workItem from="1557927427787" duration="2402000" />
+      <workItem from="1558091767668" duration="232000" />
+      <workItem from="1558451095295" duration="123000" />
+      <workItem from="1561765714110" duration="6293000" />
+      <workItem from="1564704074292" duration="7141000" />
+      <workItem from="1565319075695" duration="1911000" />
+      <workItem from="1565992407934" duration="1324000" />
+      <workItem from="1566106926490" duration="1114000" />
+      <workItem from="1569542928099" duration="144000" />
+      <workItem from="1570591399277" duration="204000" />
+      <workItem from="1576211408106" duration="307000" />
+      <workItem from="1581400692206" duration="599000" />
+      <workItem from="1582588421921" duration="4000" />
+      <workItem from="1582589562181" duration="216000" />
+      <workItem from="1582589904554" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
