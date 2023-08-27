@@ -1,8 +1,6 @@
 # Personal Website
-### Mohammad Moaaz Ahmad
+### Mohammad Ahmad
 
-[Template Credits](https://github.com/BlackrockDigital/startbootstrap-resume)
+This is a personal resume website, based on [mmahmad.notion.site](mmahmad.notion.site).
 
-## Copyright and License
 
-Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
